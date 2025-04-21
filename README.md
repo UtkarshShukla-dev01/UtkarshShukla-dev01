@@ -11,7 +11,8 @@
 ###
 
 <div align="center">
-  <img height="" src="https://i.pinimg.com/originals/9d/ac/95/9dac95fbcf7d75e73c6baae74191b38f.gif"  />
+  <img height="200" src="https://github.com/yourusername/repo/issues/number/filename.gif" alt="Test GIF" />
+
 </div>
 
 ###
