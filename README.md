@@ -9,16 +9,15 @@
 </picture>
 
 ###
-
 <div align="center">
-  <img height="200" src="https://github.com/UtkarshShukla-dev01/UtkarshShukla-dev01/blob/main/levi.gif?raw=true" alt="Levi GIF" />
+  <img height="200" width="300"  src="https://github.com/UtkarshShukla-dev01/UtkarshShukla-dev01/blob/main/image.gif?raw=true" alt="Image GIF" />
 
 
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -59,3 +58,10 @@
 </div>
 
 ###
+
+
+<div align="center">
+  <img height="200" src="https://github.com/UtkarshShukla-dev01/UtkarshShukla-dev01/blob/main/levi.gif?raw=true" alt="Levi GIF" />
+
+
+</div>
