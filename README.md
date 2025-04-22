@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Utkarsh Shukla and I'm a Full Stack Developer</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bahnschrift&pause=1000&color=F7E069&width=800&lines=Hi+%F0%9F%91%8B!+I'm+Utkarsh+Shukla%2C+a+Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
+
 
 ###
 
