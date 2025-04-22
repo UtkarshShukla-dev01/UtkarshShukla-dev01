@@ -10,7 +10,7 @@
 
 ###
 <div align="center">
-  <img height="200" width="300"  src="https://github.com/UtkarshShukla-dev01/UtkarshShukla-dev01/blob/main/image.gif?raw=true" alt="Image GIF" />
+  <img height="300" width="300"  src="https://github.com/UtkarshShukla-dev01/UtkarshShukla-dev01/blob/main/Ninja.gif?raw=true" alt="Image GIF" />
 
 
 </div>
@@ -60,8 +60,3 @@
 ###
 
 
-<div align="center">
-  <img height="200" src="https://github.com/UtkarshShukla-dev01/UtkarshShukla-dev01/blob/main/levi.gif?raw=true" alt="Levi GIF" />
-
-
-</div>
