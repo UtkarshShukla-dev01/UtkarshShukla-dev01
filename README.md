@@ -67,11 +67,24 @@
 ###
 
 <div align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/utkarsh-shukla09" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 20px;" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/Utkarsh._.009" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="margin-left: 20px;" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/Utkarsh_Shukla20032003" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+  </a>
+
+  <!-- HackerEarth -->
+  <a href="https://www.hackerrank.com/profile/utkarshshukla_c1" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth Badge" />
   </a>
 </div>
 
